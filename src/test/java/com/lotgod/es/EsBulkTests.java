@@ -27,7 +27,7 @@ import java.util.List;
 
 
 /**
- * es 批量导入测试
+ * es 批量导入测试（必须学好）
  * 2019-09-10
  * wnagyunan
  */
